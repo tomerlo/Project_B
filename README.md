@@ -3,7 +3,7 @@ Using GNN to predict stock market
 
 git push https://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@github.com/idan-friedman-technion/Project_B.git
 
-git push https://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@github.com/tomerlo/Project_B.git
+git push https://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@github.com/tomerlo/Project_B.git
 
 
 16/3:
